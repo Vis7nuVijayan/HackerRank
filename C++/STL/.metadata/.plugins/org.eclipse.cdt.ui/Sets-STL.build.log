@@ -1,0 +1,15 @@
+17:32:09 **** Incremental Build of configuration Debug for project Sets-STL ****
+make all 
+Building file: ../set.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++0x -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"set.d" -MT"set.o" -o "set.o" "../set.cpp"
+Finished building: ../set.cpp
+ 
+Building target: Sets-STL
+Invoking: GCC C++ Linker
+g++  -o "Sets-STL"  ./set.o   
+Finished building target: Sets-STL
+ 
+
+17:32:10 Build Finished (took 1s.114ms)
+

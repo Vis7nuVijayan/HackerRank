@@ -1,0 +1,6 @@
+17:08:19 **** Build of configuration Debug for project Day 12 : Inheritance ****
+make all 
+makefile:40: *** target pattern contains no '%'.  Stop.
+
+17:08:20 Build Finished (took 89ms)
+

@@ -1,0 +1,8 @@
+23:45:28 **** Incremental Build of configuration Debug for project Day 6 - Let's Review ****
+make all 
+/bin/sh: 1: Syntax error: Unterminated quoted string
+makefile:44: recipe for target 'Day 6 - Let's Review' failed
+make: *** [Day 6 - Let's Review] Error 2
+
+23:45:28 Build Finished (took 73ms)
+

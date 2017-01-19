@@ -1,0 +1,297 @@
+!SESSION 2017-01-09 19:24:06.770 -----------------------------------------------
+eclipse.buildId=4.6.2.M20161124-1400
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 19:26:47.919
+!MESSAGE Indexed 'Day 0 : Hello, World' (0 sources, 0 headers) in 0.005 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 19:29:31.806
+!MESSAGE Indexed 'Day 0 - Hello, World' (1 sources, 147 headers) in 4.02 sec: 12,603 declarations; 19,465 references; 0 unresolved inclusions; 0 syntax errors; 6 unresolved names (0.019%)
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-01-09 19:30:07.666
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-01-09 19:30:07.667
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 19:30:50.792
+!MESSAGE Indexed 'Day 0 : Hello, World' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 19:32:50.406
+!MESSAGE Indexed 'Day 1 : Data Types' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 19:33:20.488
+!MESSAGE Indexed 'Day 1 - Data Types' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 19:50:42.666
+!MESSAGE Indexed 'Day 1 : Data Types' (1 sources, 163 headers) in 3.44 sec: 15,805 declarations; 25,331 references; 0 unresolved inclusions; 0 syntax errors; 16 unresolved names (0.039%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 19:50:51.863
+!MESSAGE Indexed 'Day 0 - Hello, World' (1 sources, 147 headers) in 2.76 sec: 12,603 declarations; 19,466 references; 0 unresolved inclusions; 0 syntax errors; 8 unresolved names (0.025%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 19:51:09.913
+!MESSAGE Indexed 'Day 0 : Hello, World' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 22:05:01.991
+!MESSAGE Indexed 'Day 2 : Operators' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 22:09:30.338
+!MESSAGE Indexed 'Day 2 - Operators' (1 sources, 147 headers) in 2.34 sec: 12,611 declarations; 19,478 references; 0 unresolved inclusions; 0 syntax errors; 5 unresolved names (0.016%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 22:15:59.242
+!MESSAGE Indexed 'Day 2 : Operators' (1 sources, 160 headers) in 2.09 sec: 14,617 declarations; 23,812 references; 0 unresolved inclusions; 0 syntax errors; 5 unresolved names (0.013%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 22:16:18.684
+!MESSAGE Indexed 'Day 3 : Class vs. Instance' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 22:23:16.277
+!MESSAGE Indexed 'Day 3 - Class vs. Instance' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 22:31:28.327
+!MESSAGE Indexed 'Day 4 : Class vs. Instance' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 22:31:36.385
+!MESSAGE Indexed 'Day 4 - Class vs. Instance' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 22:31:55.532
+!MESSAGE Indexed 'Day 4 : Class vs. Instance' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 22:32:33.698
+!MESSAGE Indexed 'Day 3 : Intro to Conditional Statements' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 22:33:09.136
+!MESSAGE Indexed 'Day 3 - Intro to Conditional Statements' (1 sources, 147 headers) in 1.91 sec: 12,602 declarations; 19,464 references; 0 unresolved inclusions; 0 syntax errors; 1 unresolved names (0.0031%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 22:40:06.097
+!MESSAGE Indexed 'Day 3 : Intro to Conditional Statements' (1 sources, 147 headers) in 1.67 sec: 12,605 declarations; 19,470 references; 0 unresolved inclusions; 0 syntax errors; 5 unresolved names (0.016%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 22:40:26.675
+!MESSAGE Indexed 'Day 5 : Loops' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 22:42:23.848
+!MESSAGE Indexed 'Day 5 - Loops' (1 sources, 147 headers) in 1.8 sec: 12,606 declarations; 19,473 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-09 22:43:56.290
+!MESSAGE Indexed 'Day 5 : Loops' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2017-01-11 23:34:51.071 -----------------------------------------------
+eclipse.buildId=4.6.2.M20161124-1400
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -data /home/envy/C++/HackerRank/Tutorials/30 Days of Code -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-11 23:40:59.855
+!MESSAGE Indexed 'Day 6 : Let's Review' (0 sources, 0 headers) in 0.003 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-11 23:45:24.719
+!MESSAGE Indexed 'Day 6 - Let's Review' (1 sources, 147 headers) in 5.21 sec: 12,608 declarations; 19,477 references; 0 unresolved inclusions; 0 syntax errors; 11 unresolved names (0.034%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-11 23:45:46.903
+!MESSAGE Indexed 'Day 6 - Lets Review' (1 sources, 147 headers) in 4.08 sec: 12,608 declarations; 19,477 references; 0 unresolved inclusions; 0 syntax errors; 11 unresolved names (0.034%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-11 23:47:03.466
+!MESSAGE Indexed 'Day 6 : Let's Review' (1 sources, 147 headers) in 3.19 sec: 12,608 declarations; 19,477 references; 0 unresolved inclusions; 0 syntax errors; 11 unresolved names (0.034%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-11 23:47:17.317
+!MESSAGE Indexed 'Day 7 : Arrays' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-11 23:49:35.728
+!MESSAGE Indexed 'Day 7 - Arrays' (1 sources, 147 headers) in 3.1 sec: 12,612 declarations; 19,482 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.012%)
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-01-11 23:49:44.130
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-01-11 23:49:44.131
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-11 23:50:25.293
+!MESSAGE Indexed 'Day 7 : Arrays' (1 sources, 147 headers) in 2.71 sec: 12,612 declarations; 19,482 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-12 00:00:34.224
+!MESSAGE Indexed 'Day 8 : Dictionaries and Maps' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-12 00:17:05.667
+!MESSAGE Indexed 'Day 8 - Dictionaries and Maps' (1 sources, 157 headers) in 5.15 sec: 14,977 declarations; 23,557 references; 0 unresolved inclusions; 1 syntax errors; 13 unresolved names (0.034%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-12 00:20:45.064
+!MESSAGE Indexed 'Day 8 : Dictionaries and Maps' (1 sources, 157 headers) in 2.25 sec: 14,978 declarations; 23,567 references; 0 unresolved inclusions; 0 syntax errors; 23 unresolved names (0.06%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-12 00:21:07.067
+!MESSAGE Indexed 'Day 9 : Recursion' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-12 00:22:35.680
+!MESSAGE Indexed 'Day 9 - Recursion' (1 sources, 147 headers) in 1.79 sec: 12,605 declarations; 19,471 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-12 00:23:16.187
+!MESSAGE Indexed 'Day 9 : Recursion' (1 sources, 147 headers) in 1.42 sec: 12,605 declarations; 19,471 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.012%)
+!SESSION 2017-01-12 13:10:29.759 -----------------------------------------------
+eclipse.buildId=4.6.2.M20161124-1400
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-12 13:12:18.141
+!MESSAGE Indexed 'Day 10 : Binary Numbers' (0 sources, 0 headers) in 0.003 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-12 13:21:37.377
+!MESSAGE Indexed 'Day 10 - Binary Numbers' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-01-12 13:23:08.756
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-01-12 13:23:08.763
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-12 13:26:07.647
+!MESSAGE Indexed 'Day 10 : Binary Numbers' (1 sources, 241 headers) in 7.52 sec: 36,481 declarations; 74,885 references; 0 unresolved inclusions; 0 syntax errors; 18 unresolved names (0.016%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-12 13:26:25.444
+!MESSAGE Indexed 'Day 11 : 2D Arrays' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-12 16:23:11.527
+!MESSAGE Indexed 'Day 11 - 2D Arrays' (1 sources, 147 headers) in 3.37 sec: 12,607 declarations; 19,473 references; 0 unresolved inclusions; 0 syntax errors; 4 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-12 16:29:59.793
+!MESSAGE Indexed 'Day 11 : 2D Arrays' (1 sources, 147 headers) in 1.82 sec: 12,613 declarations; 19,506 references; 0 unresolved inclusions; 0 syntax errors; 5 unresolved names (0.016%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-12 16:30:19.550
+!MESSAGE Indexed 'Day 12 : Inheritance' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-12 17:08:26.041
+!MESSAGE Indexed 'Day 12 - Inheritance' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-12 17:15:15.446
+!MESSAGE Indexed 'Day 12 : Inheritance' (1 sources, 153 headers) in 1.9 sec: 13,934 declarations; 22,609 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2017-01-13 11:45:12.085 -----------------------------------------------
+eclipse.buildId=4.6.2.M20161124-1400
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-13 12:51:09.560
+!MESSAGE Indexed 'Day 13 : Abstract Classes' (0 sources, 0 headers) in 0.003 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-13 12:51:39.769
+!MESSAGE Indexed 'Day 13 - Abstract Classes' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2017-01-14 12:24:09.413 -----------------------------------------------
+eclipse.buildId=4.6.2.M20161124-1400
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-14 12:26:24.733
+!MESSAGE Indexed 'Day 13 : Abstract Classes' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-14 12:26:58.802
+!MESSAGE Indexed 'Day 13  Abstract Classes' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-14 12:28:13.527
+!MESSAGE Indexed 'Day 13 : Abstract Classes' (1 sources, 245 headers) in 7.63 sec: 36,493 declarations; 74,971 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.0018%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-14 12:28:35.290
+!MESSAGE Indexed 'Day 14 : Scope' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-14 12:28:52.942
+!MESSAGE Indexed 'Day 14  Scope' (1 sources, 147 headers) in 2.02 sec: 12,602 declarations; 19,464 references; 0 unresolved inclusions; 0 syntax errors; 1 unresolved names (0.0031%)
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-01-14 12:34:28.657
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-01-14 12:34:28.658
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+!SESSION 2017-01-16 00:02:33.075 -----------------------------------------------
+eclipse.buildId=4.6.2.M20161124-1400
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-16 00:03:52.582
+!MESSAGE Indexed 'Day 14 : Scope' (1 sources, 245 headers) in 30.1 sec: 36,486 declarations; 74,966 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.0018%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-16 00:04:08.778
+!MESSAGE Indexed 'Day 15 : Linked List' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-16 01:11:32.421
+!MESSAGE Indexed 'Day 15  Linked List' (1 sources, 149 headers) in 3.2 sec: 12,632 declarations; 19,598 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-16 09:58:40.485
+!MESSAGE Indexed 'Day 15 : Linked List' (1 sources, 149 headers) in 4.05 sec: 12,632 declarations; 19,598 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-16 09:59:05.530
+!MESSAGE Indexed 'Day 16 : Exceptions - String to Integer' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-16 10:01:05.704
+!MESSAGE Indexed 'Day 16  Exceptions - String to Integer' (1 sources, 147 headers) in 2.28 sec: 12,604 declarations; 19,466 references; 0 unresolved inclusions; 0 syntax errors; 7 unresolved names (0.022%)
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-01-16 10:01:10.454
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-01-16 10:01:10.455
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-16 10:05:02.224
+!MESSAGE Indexed 'Day 16 : Exceptions - String to Integer' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2017-01-17 11:04:57.916 -----------------------------------------------
+eclipse.buildId=4.6.2.M20161124-1400
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-17 11:06:31.633
+!MESSAGE Indexed 'Day 17 : More Exceptions' (0 sources, 0 headers) in 0.003 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-17 11:15:45.639
+!MESSAGE Indexed 'Day 17  More Exceptions' (1 sources, 160 headers) in 4.96 sec: 14,615 declarations; 23,824 references; 0 unresolved inclusions; 1 syntax errors; 1 unresolved names (0.0026%)
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-01-17 11:24:06.455
+!MESSAGE Enablement expression is missing for descriptor type org.eclipse.cdt.debug.core.coreBuildDescriptorType
+
+!ENTRY org.eclipse.launchbar.core 2 0 2017-01-17 11:24:06.456
+!MESSAGE Enablement expression is missing for config provider for org.eclipse.cdt.debug.core.coreBuildDescriptorType
+!SESSION 2017-01-18 12:47:53.860 -----------------------------------------------
+eclipse.buildId=4.6.2.M20161124-1400
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-18 12:49:09.400
+!MESSAGE Indexed 'Day 18 : Queues and Stacks' (0 sources, 0 headers) in 0.003 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-18 12:58:07.303
+!MESSAGE Indexed 'Day 18  Queues and Stacks' (1 sources, 162 headers) in 5.53 sec: 15,265 declarations; 25,397 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-18 13:44:24.306
+!MESSAGE Indexed 'Day 18 : Queues and Stacks' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+!SESSION 2017-01-19 11:48:34.857 -----------------------------------------------
+eclipse.buildId=4.6.2.M20161124-1400
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-19 11:49:27.015
+!MESSAGE Indexed 'Day 19 : Interfaces' (0 sources, 0 headers) in 0.005 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-19 11:53:43.474
+!MESSAGE Indexed 'Day 19  Interfaces' (1 sources, 245 headers) in 11.1 sec: 36,486 declarations; 74,945 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.0018%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2017-01-19 11:54:20.417
+!MESSAGE Indexed 'Day 19 : Interfaces' (1 sources, 245 headers) in 7.7 sec: 36,486 declarations; 74,945 references; 0 unresolved inclusions; 0 syntax errors; 2 unresolved names (0.0018%)

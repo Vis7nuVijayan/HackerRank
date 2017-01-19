@@ -1,0 +1,1 @@
+moreexceptions.o: ../moreexceptions.cpp

@@ -1,0 +1,15 @@
+12:27:50 **** Incremental Build of configuration Debug for project Day 13  Abstract Classes ****
+make all 
+Building file: ../abstractclasses.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++0x -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"abstractclasses.d" -MT"abstractclasses.o" -o "abstractclasses.o" "../abstractclasses.cpp"
+Finished building: ../abstractclasses.cpp
+ 
+Building target: Day 13  Abstract Classes
+Invoking: GCC C++ Linker
+g++  -o "Day 13  Abstract Classes"  ./abstractclasses.o   
+Finished building target: Day 13  Abstract Classes
+ 
+
+12:27:52 Build Finished (took 1s.816ms)
+

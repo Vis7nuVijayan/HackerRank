@@ -1,0 +1,1 @@
+operators.o: ../operators.cpp

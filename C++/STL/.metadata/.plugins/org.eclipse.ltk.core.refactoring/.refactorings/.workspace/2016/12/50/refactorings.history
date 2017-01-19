@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Vector-Soft&apos; to &apos;Vector-Sort&apos;" description="Rename resource &apos;Vector-Soft&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Vector-Soft" name="Vector-Sort" stamp="1481388825281" updateReferences="true"/>
+</session>

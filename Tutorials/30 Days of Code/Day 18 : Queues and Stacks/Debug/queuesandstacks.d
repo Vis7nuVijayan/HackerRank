@@ -1,0 +1,1 @@
+queuesandstacks.o: ../queuesandstacks.cpp

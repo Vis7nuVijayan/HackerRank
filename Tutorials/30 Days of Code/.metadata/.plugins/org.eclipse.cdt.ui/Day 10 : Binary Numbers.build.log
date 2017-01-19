@@ -1,0 +1,6 @@
+13:21:27 **** Build of configuration Debug for project Day 10 : Binary Numbers ****
+make all 
+makefile:40: *** target pattern contains no '%'.  Stop.
+
+13:21:27 Build Finished (took 166ms)
+

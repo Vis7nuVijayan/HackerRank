@@ -1,0 +1,11 @@
+02:35:30 **** Incremental Build of configuration Debug for project Say "Hello! World!" With C++ ****
+make all 
+Building target: Say "Hello! World!" With C++
+Invoking: GCC C++ Linker
+g++  -o "Say "Hello! World!" With C++"  ./main.o   
+g++: error: World! With C++: No such file or directory
+make: *** [Say "Hello! World!" With C++] Error 1
+makefile:44: recipe for target 'Say "Hello! World!" With C++' failed
+
+02:35:30 Build Finished (took 81ms)
+

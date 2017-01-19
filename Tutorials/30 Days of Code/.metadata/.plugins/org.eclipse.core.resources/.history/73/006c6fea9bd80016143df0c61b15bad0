@@ -1,0 +1,19 @@
+/*
+ * Day 10 : Binary Numbers
+ *
+ *		Author : Vishnu Vijayan
+ *		  Date : 12-Jan-2017
+ *		  Time : 1:14:00 PM
+ *
+ */
+
+using namespace std;
+
+#include <iostream>
+
+int main()
+{
+
+
+	return 0;
+}

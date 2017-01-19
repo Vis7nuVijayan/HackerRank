@@ -1,0 +1,15 @@
+23:56:33 **** Incremental Build of configuration Debug for project Time conversion ****
+make all 
+Building file: ../timeconversion.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++0x -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"timeconversion.d" -MT"timeconversion.o" -o "timeconversion.o" "../timeconversion.cpp"
+Finished building: ../timeconversion.cpp
+ 
+Building target: Time conversion
+Invoking: GCC C++ Linker
+g++  -o "Time conversion"  ./timeconversion.o   
+Finished building target: Time conversion
+ 
+
+23:56:34 Build Finished (took 534ms)
+

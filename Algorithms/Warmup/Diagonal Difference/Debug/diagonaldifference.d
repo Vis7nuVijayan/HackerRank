@@ -1,0 +1,1 @@
+diagonaldifference.o: ../diagonaldifference.cpp

@@ -1,0 +1,19 @@
+/*
+ * Day 19 : Interfaces
+ *
+ *		Author : Vishnu Vijayan
+ *		  Date : 19-Jan-2017
+ *		  Time : 11:49:37 AM
+ *
+ */
+
+using namespace std;
+
+#include <iostream>
+
+int main()
+{
+
+
+	return 0;
+}

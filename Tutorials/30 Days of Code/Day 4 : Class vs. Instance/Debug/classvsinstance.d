@@ -1,0 +1,1 @@
+classvsinstance.o: ../classvsinstance.cpp

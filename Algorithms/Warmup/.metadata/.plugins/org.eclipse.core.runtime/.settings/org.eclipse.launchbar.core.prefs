@@ -1,0 +1,6 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Solve Me First,org.eclipse.launchbar.core.descriptorType.default\:Simple Array Sum,org.eclipse.launchbar.core.descriptorType.default\:Compare the Triplets,org.eclipse.launchbar.core.descriptorType.default\:A Very Big Sum,org.eclipse.launchbar.core.descriptorType.default\:Diagonal Difference,org.eclipse.launchbar.core.descriptorType.default\:Plus Minus,org.eclipse.launchbar.core.descriptorType.default\:Staircase,org.eclipse.launchbar.core.descriptorType.default\:Time conversion,org.eclipse.launchbar.core.descriptorType.default\:Circular Array Rotation
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Solve\ Me\ First/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Solve\ Me\ First/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

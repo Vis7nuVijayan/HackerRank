@@ -1,0 +1,15 @@
+19:50:56 **** Build of configuration Debug for project Day 0 - Hello, World ****
+make all 
+Building file: ../helloworld.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++0x -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"helloworld.d" -MT"helloworld.o" -o "helloworld.o" "../helloworld.cpp"
+Finished building: ../helloworld.cpp
+ 
+Building target: Day 0 - Hello, World
+Invoking: GCC C++ Linker
+g++  -o "Day 0 - Hello, World"  ./helloworld.o   
+Finished building target: Day 0 - Hello, World
+ 
+
+19:50:56 Build Finished (took 378ms)
+

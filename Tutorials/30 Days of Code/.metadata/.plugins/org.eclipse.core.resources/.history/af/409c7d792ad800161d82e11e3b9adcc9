@@ -1,0 +1,19 @@
+/*
+ * Day 7 : Arrays
+ *
+ *		Author : Vishnu Vijayan
+ *		  Date : 11-Jan-2017
+ *		  Time : 11:47:26 PM
+ *
+ */
+
+using namespace std;
+
+#include<iostream>
+
+int main()
+{
+
+
+	return 0;
+}

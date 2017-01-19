@@ -1,0 +1,22 @@
+/*
+ * Day 18 : Queues and Stacks
+ *
+ *		Author : Vishnu Vijayan
+ *		  Date : 18-Jan-2017
+ *		  Time : 12:49:21 PM
+ *
+ */
+
+#include <iostream>
+#include <queue>
+#include <stack>
+
+using namespace std;
+
+class Solution
+{
+	//Write your code here
+
+	private:
+
+};

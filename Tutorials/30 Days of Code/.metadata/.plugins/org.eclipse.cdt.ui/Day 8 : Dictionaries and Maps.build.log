@@ -1,0 +1,6 @@
+00:16:47 **** Build of configuration Debug for project Day 8 : Dictionaries and Maps ****
+make all 
+makefile:40: *** target pattern contains no '%'.  Stop.
+
+00:16:47 Build Finished (took 266ms)
+

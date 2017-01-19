@@ -1,0 +1,15 @@
+00:33:40 **** Incremental Build of configuration Debug for project Box It! ****
+make all 
+Building file: ../box.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"box.d" -MT"box.o" -o "box.o" "../box.cpp"
+Finished building: ../box.cpp
+ 
+Building target: Box It!
+Invoking: GCC C++ Linker
+g++  -o "Box It!"  ./box.o   
+Finished building target: Box It!
+ 
+
+00:33:41 Build Finished (took 602ms)
+

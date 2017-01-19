@@ -1,0 +1,1 @@
+dicmaps.o: ../dicmaps.cpp

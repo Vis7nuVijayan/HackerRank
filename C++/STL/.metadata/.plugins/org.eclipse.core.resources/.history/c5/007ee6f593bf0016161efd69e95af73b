@@ -1,0 +1,37 @@
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+
+using namespace std;
+
+
+void Find(int a[])
+{
+	int query;
+	cin >> query;
+
+	int val;
+	while(query--)
+	{
+		cin >> val;
+		auto iterator = lower_bound(std::begin(a), std::end(a), val);
+		cout << begin(a)+iterator;
+	}
+}
+
+int main()
+{
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
+	int N;
+	cin >> N;
+
+	int a[N];
+	for(int i=0;i<N;++i)
+		cin >> a[i];
+
+	Find(a);
+
+    return 0;
+}

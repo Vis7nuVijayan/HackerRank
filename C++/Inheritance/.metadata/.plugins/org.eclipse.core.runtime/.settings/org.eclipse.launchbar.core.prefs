@@ -1,0 +1,8 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Inheritance Introduction,org.eclipse.launchbar.core.descriptorType.default\:Rectangle Area,org.eclipse.launchbar.core.descriptorType.default\:Multi Level Inheritance,org.eclipse.launchbar.core.descriptorType.default\:Accessing Inherited Functions,org.eclipse.launchbar.core.descriptorType.default\:Magic Spells
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Inheritance\ Introduction/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Inheritance\ Introduction/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Multi\ Level\ Inheritance/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Multi\ Level\ Inheritance/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

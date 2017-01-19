@@ -1,0 +1,1 @@
+printpretty.o: ../printpretty.cpp

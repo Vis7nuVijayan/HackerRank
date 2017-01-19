@@ -1,0 +1,1 @@
+letsreview.o: ../letsreview.cpp

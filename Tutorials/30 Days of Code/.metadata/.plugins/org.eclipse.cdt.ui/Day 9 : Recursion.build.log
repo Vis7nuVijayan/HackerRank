@@ -1,0 +1,6 @@
+00:22:26 **** Build of configuration Debug for project Day 9 : Recursion ****
+make all 
+makefile:40: *** target pattern contains no '%'.  Stop.
+
+00:22:26 Build Finished (took 71ms)
+

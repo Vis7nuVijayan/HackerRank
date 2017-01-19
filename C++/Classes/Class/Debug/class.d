@@ -1,0 +1,1 @@
+class.o: ../class.cpp

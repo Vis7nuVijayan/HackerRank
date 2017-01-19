@@ -1,0 +1,6 @@
+16:22:59 **** Build of configuration Debug for project Day 11 : 2D Arrays ****
+make all 
+makefile:40: *** target pattern contains no '%'.  Stop.
+
+16:22:59 Build Finished (took 160ms)
+

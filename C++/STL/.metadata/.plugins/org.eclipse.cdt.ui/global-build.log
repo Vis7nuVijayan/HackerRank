@@ -1,0 +1,15 @@
+00:54:09 **** Build of configuration Debug for project Deque-STL ****
+make all 
+Building file: ../deque.cpp
+Invoking: GCC C++ Compiler
+g++ -std=c++0x -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"deque.d" -MT"deque.o" -o "deque.o" "../deque.cpp"
+Finished building: ../deque.cpp
+ 
+Building target: Deque-STL
+Invoking: GCC C++ Linker
+g++  -o "Deque-STL"  ./deque.o   
+Finished building target: Deque-STL
+ 
+00:54:12 **** Incremental Build of configuration Debug for project Deque-STL ****
+make all 
+make: Nothing to be done for 'all'.
