@@ -1,1 +1,0 @@
-circulararrayrotation.o: ../circulararrayrotation.cpp

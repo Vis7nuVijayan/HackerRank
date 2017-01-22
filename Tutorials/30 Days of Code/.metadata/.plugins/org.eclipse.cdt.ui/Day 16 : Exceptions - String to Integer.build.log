@@ -1,6 +1,0 @@
-10:00:56 **** Build of configuration Debug for project Day 16 : Exceptions - String to Integer ****
-make all 
-makefile:40: *** target pattern contains no '%'.  Stop.
-
-10:00:57 Build Finished (took 136ms)
-

@@ -1,1 +1,0 @@
-triplets.o: ../triplets.cpp

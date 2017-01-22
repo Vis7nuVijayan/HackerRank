@@ -1,1 +1,0 @@
-binarynumbers.o: ../binarynumbers.cpp

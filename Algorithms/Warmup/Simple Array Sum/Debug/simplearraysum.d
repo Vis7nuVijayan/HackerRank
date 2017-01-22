@@ -1,1 +1,0 @@
-simplearraysum.o: ../simplearraysum.cpp

@@ -1,1 +1,0 @@
-intro.o: ../intro.cpp

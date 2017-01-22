@@ -1,1 +1,0 @@
-solvemefirst.o: ../solvemefirst.cpp

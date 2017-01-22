@@ -1,6 +1,0 @@
-22:09:17 **** Build of configuration Debug for project Day 2 : Operators ****
-make all 
-makefile:40: *** target pattern contains no '%'.  Stop.
-
-22:09:17 Build Finished (took 76ms)
-

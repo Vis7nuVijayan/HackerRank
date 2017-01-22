@@ -1,1 +1,0 @@
-spells.o: ../spells.cpp

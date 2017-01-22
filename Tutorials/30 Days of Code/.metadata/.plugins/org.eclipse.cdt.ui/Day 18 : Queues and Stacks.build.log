@@ -1,6 +1,0 @@
-12:57:52 **** Build of configuration Debug for project Day 18 : Queues and Stacks ****
-make all 
-makefile:40: *** target pattern contains no '%'.  Stop.
-
-12:57:52 Build Finished (took 218ms)
-

@@ -1,1 +1,0 @@
-inheritance.o: ../inheritance.cpp

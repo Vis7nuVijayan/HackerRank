@@ -1,1 +1,0 @@
-staircase.o: ../staircase.cpp

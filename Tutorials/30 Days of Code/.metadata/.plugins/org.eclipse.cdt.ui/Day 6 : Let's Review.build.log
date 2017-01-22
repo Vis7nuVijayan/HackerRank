@@ -1,6 +1,0 @@
-23:44:58 **** Build of configuration Debug for project Day 6 : Let's Review ****
-make all 
-makefile:40: *** target pattern contains no '%'.  Stop.
-
-23:44:58 Build Finished (took 137ms)
-

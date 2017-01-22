@@ -1,1 +1,0 @@
-inherited.o: ../inherited.cpp

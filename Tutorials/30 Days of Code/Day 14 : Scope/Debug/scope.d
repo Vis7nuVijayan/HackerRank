@@ -1,1 +1,0 @@
-scope.o: ../scope.cpp

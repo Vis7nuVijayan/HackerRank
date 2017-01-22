@@ -1,0 +1,8 @@
+# Eclipse C++ #
+###############
+
+.metadata/
+.settings/
+.cproject
+.project
+Debug/

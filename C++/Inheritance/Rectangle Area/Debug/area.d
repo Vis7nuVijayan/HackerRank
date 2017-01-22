@@ -1,1 +1,0 @@
-area.o: ../area.cpp

@@ -1,6 +1,0 @@
-01:11:19 **** Build of configuration Debug for project Day 15 : Linked List ****
-make all 
-makefile:40: *** target pattern contains no '%'.  Stop.
-
-01:11:19 Build Finished (took 322ms)
-

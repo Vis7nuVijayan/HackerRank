@@ -1,1 +1,0 @@
-averybigsum.o: ../averybigsum.cpp
