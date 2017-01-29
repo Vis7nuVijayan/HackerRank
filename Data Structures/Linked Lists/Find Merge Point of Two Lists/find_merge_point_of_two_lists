@@ -1,0 +1,44 @@
+/*
+   Find merge point of two linked lists
+   Node is defined as
+   struct Node
+   {
+       int data;
+       Node* next;
+   }
+*/
+
+#include <unordered_set>
+
+int FindMergeNode(Node *headA, Node *headB)
+{
+    // Complete this function
+    // Do not write the main method.
+    
+    unordered_set<Node*> node_set;
+    
+    while(true)
+    {
+        if(headA)
+        {
+            if(node_set.find(headA) != node_set.end())
+                return headA->data;
+            
+            else
+                node_set.insert(headA);
+            
+            headA = headA->next;
+        }
+        
+        if(headB)
+        {
+            if(node_set.find(headB) != node_set.end())
+                return headB->data;
+        
+            else
+                node_set.insert(headB);
+            
+            headB = headB->next;
+        }
+    }
+}
