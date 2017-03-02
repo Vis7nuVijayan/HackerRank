@@ -1,0 +1,47 @@
+/*
+    Insert Node in a doubly sorted linked list 
+    After each insertion, the list should be sorted
+   Node is defined as
+   struct Node
+   {
+     int data;
+     Node *next;
+     Node *prev;
+   }
+*/
+
+Node* SortedInsert(Node *head,int data)
+{
+    // Complete this function
+    // Do not write the main method.
+    
+    
+    
+    if(!head)
+    {
+        Node* node = new Node();
+        node->data = data;
+        node->next = NULL;
+        node->prev = NULL;
+        return node;
+    }
+    
+    if(head->data <= data)
+    {
+        Node* node = SortedInsert(head->next,data);
+        head->next = node;
+        node->prev = head;
+    }
+    
+    else
+    {
+        Node* node = new Node();
+        node->data = data;
+        node->next = head;
+        node->prev = NULL;
+        
+        return node;
+    }
+    
+    return head;
+}

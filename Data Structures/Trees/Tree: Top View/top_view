@@ -1,0 +1,43 @@
+/*
+struct node
+{
+    int data;
+    node* left;
+    node* right;
+};
+*/
+
+void Go_Left(node*);
+void Go_Right(node*);
+
+void top_view(node * root)
+{
+    if(root)
+    {
+        Go_Left(root->left);
+        
+        cout << root->data << " ";
+        
+        Go_Right(root->right);
+    }
+}
+
+void Go_Left(node* root)
+{
+    if(root)
+    {
+        Go_Left(root->left);
+        
+        cout << root->data << " ";
+    }
+}
+
+void Go_Right(node* root)
+{
+    if(root)
+    {
+        cout << root->data << " ";
+        
+        Go_Right(root->right);
+    }
+}

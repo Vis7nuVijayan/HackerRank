@@ -1,0 +1,57 @@
+/*
+Node is defined as 
+
+typedef struct node
+{
+   int data;
+   node * left;
+   node * right;
+}node;
+
+*/
+
+void insertNode(node*,int);
+
+node* insert(node * root, int value)
+{
+    if(!root)
+    {
+        node* Node = new node();
+        Node->data = value;
+        root = Node;
+    }
+    
+    else
+        insertNode(root,value);
+    
+    return root;
+}
+
+void insertNode(node* root, int value)
+{
+    if(value < root->data)
+    {
+        if(root->left)
+            insertNode(root->left,value);
+        
+        else
+        {
+            node* Node = new node();
+            Node->data = value;
+            root->left = Node;
+        }
+    }
+    
+    else
+    {
+        if(root->right)
+            insertNode(root->right,value);
+        
+        else
+        {
+            node* Node = new node();
+            Node->data = value;
+            root->right = Node;
+        }
+    }
+}
